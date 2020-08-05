@@ -1,4 +1,4 @@
-# Fake API REST for rocketseat bootcamp challenge 2
+# Fake API REST ad React App for rocketseat bootcamp challenge 2
 
 ## Packages
 
